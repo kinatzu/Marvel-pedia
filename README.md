@@ -1,4 +1,4 @@
-# superheroapp
+# Superheroapp
 
 ## Project setup
 ```
